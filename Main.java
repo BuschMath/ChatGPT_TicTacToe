@@ -1,3 +1,5 @@
+// ChatGPT created game in Java. I had to correct two errors. getCurrentPlayer was not implemented and the Scanner was not closed.
+
 import java.util.Scanner;
 
 public class Main {
